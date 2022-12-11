@@ -1,0 +1,54 @@
+.logo {
+  width: 300px;
+  display: block;
+  margin: 0 auto 15px;
+  border-radius: 80px;
+}
+
+h1 {
+  display: block;
+  color: #636363;
+  font-family: "Abel", sans-serif;
+  font-size: 60px;
+  text-align: center;
+}
+h4 {
+  display: block;
+  color: #85d6e4;
+  font-family: "Abel", sans-serif;
+  font-size: 20px;
+  margin-top: auto;
+  text-align: center;
+}
+
+.header {
+  display: block;
+  width: 45%;
+  margin: auto;
+}
+
+.link_item {
+  display: block;
+  max-width: 550px;
+  margin: 0 auto 15px;
+  margin-bottom: 5px;
+  padding: 15px 20px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  color: #636363;
+  text-align: center;
+}
+
+.link_item {
+  border-bottom: 3px solid #000;
+  box-shadow: inset 0 -4px 0 #e0fe9c;
+  border-radius: 25px;
+  border: 2px solid #000;
+  background-color: #000;
+}
+
+body {
+  background-color: #000;
+}
