@@ -6,22 +6,25 @@
 }
 
 h1 {
+  display: block;
   color: #636363;
   font-family: "Abel", sans-serif;
-  font-size: 80px;
+  font-size: 60px;
+  text-align: center;
 }
 h4 {
+  display: block;
   color: #85d6e4;
   font-family: "Abel", sans-serif;
-  font-size: 30px;
-  margin-left: 22%;
+  font-size: 20px;
   margin-top: auto;
+  text-align: center;
 }
 
 .header {
   display: block;
-  margin: 0 auto 15px;
-  margin-left: 25%;
+  width: 45%;
+  margin: auto;
 }
 
 .link_item {
@@ -30,7 +33,7 @@ h4 {
   margin: 0 auto 15px;
   margin-bottom: 5px;
   padding: 15px 20px;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   line-height: 1.5;
   text-decoration: none;
   transition: all 0.2s ease-in-out;
